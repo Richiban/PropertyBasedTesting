@@ -92,7 +92,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PropertyTesting\PropertyBasedTesting.fsproj">
+    <ProjectReference Include="..\PropertyBasedTesting\PropertyBasedTesting.fsproj">
       <Name>PropertyBasedTesting</Name>
       <Project>{e90151bd-bbab-49a6-b65f-4b003a753b07}</Project>
       <Private>True</Private>
